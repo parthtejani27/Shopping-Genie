@@ -2,7 +2,7 @@
 
 An intelligent chatbot that combines deep learning (BERT, LSTM) and Retrieval Augmented Generation (RAG) to provide personalized e-commerce assistance. The project focuses on creating a next-generation chatbot for enhanced customer service in e-commerce applications.
 
-![Architecture](https://github.com/user-attachments/assets/0aa04abe-5ea7-4f0a-b6b2-38b60857c62e)
+![Architecture]([https://github.com/user-attachments/assets/0aa04abe-5ea7-4f0a-b6b2-38b60857c62e](https://github.com/user-attachments/assets/178f67f8-019b-447c-8eb6-a8a81b92a738))
 _System Architecture_
 
 ## 🌟 Key Features
