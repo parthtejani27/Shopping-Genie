@@ -164,8 +164,6 @@ _Shopping Genie in Action_
 | -------------------------- | --------------------- | ------ |
 | BERT Intent Classification | Accuracy              | 99.70% |
 | Bi-LSTM Model              | Accuracy              | 98.12% |
-| Response Generation        | Average Response Time | <2s    |
-| User Satisfaction          | Rating                | 4.5/5  |
 
 ## 🔮 Future Enhancements
 
